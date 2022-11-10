@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '有名博客'
-description: '有名工作室的评论博客，分享时事，点评家事国事天下事，很高兴和你相见'
-keyword: '有名工作室, 有名工作室的独立博客, 有名博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: 'blog.ymgzs.ga' # your host
+title: '黄浩杰博客'
+description: '青春的记忆'
+keyword: '黄浩杰'
+url: 'hblog.eu.org' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -21,12 +21,12 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2022
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+author: '黄浩杰'
+nickname: 'hhj'
+bio: '青春的记忆'
 avatar: '/assets/img/profile.png'
 
 # Search
